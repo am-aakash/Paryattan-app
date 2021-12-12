@@ -1,4 +1,4 @@
-# paryattan_app
+# Paryattan
 
 A new Flutter project.
 
